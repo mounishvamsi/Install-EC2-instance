@@ -96,6 +96,15 @@ openstack --version
 openstack service list
 Launch OpenStack Dashboard
 
+![1 whatsapp](https://github.com/user-attachments/assets/4b9b4106-2ee7-447b-806b-c2d5efae9e5b)
+
+![WhatsApp2](https://github.com/user-attachments/assets/312f43b4-cc05-4208-87db-495d90feb2b6)
+
+![WhatsApp3](https://github.com/user-attachments/assets/55965b41-f5c8-42d7-b590-04fa0b0172ee)
+
+![WhatsApp4](https://github.com/user-attachments/assets/99a8a1d2-9a4d-40d1-94b2-1d923527f907)
+
+
 Access Horizon Dashboard using http://<your-server-ip>/dashboard.
 Log in with admin credentials.
 Result:
